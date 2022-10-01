@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @da2du
+- 👋 Hi, I’m da
 - 👀 I’m interested in  frontend software Enginnering
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects
